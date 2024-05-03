@@ -1,2 +1,4 @@
 # rickandmorty-api
- comsumindo api do rick and morty
+ Este projeto é uma aplicação de exemplo que utiliza a API Rick and Morty para exibir informações sobre os personagens da série.
+
+ 
